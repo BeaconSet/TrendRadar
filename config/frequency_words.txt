@@ -15,7 +15,7 @@ Nasdaq
 S&P
 
 阿里
-千文
+千问
 Qwen
 
 DeepSeek
